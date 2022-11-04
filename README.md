@@ -1,6 +1,6 @@
 # Finding-the-middle-3-letters-of-any-word
 
-The question in this question is:
+The question for this code is:
 
 Accept a string as input. If the input string is of odd length, then continue with it. If the input string is of even length, make the string of odd length by following the two steps mentioned below:
 (1) If the last character is a period (.), then remove it
